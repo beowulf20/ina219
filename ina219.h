@@ -1,3 +1,12 @@
+/**
+ * Author: Beowulf20
+ * Repo: https://github.com/beowulf20/ina219-esp32
+ * Reference Datasheet: https://www.ti.com/lit/ds/symlink/ina219.pdf?ts=1599093965648&ref_url=https%253A%252F%252Fwww.google.com%252F
+ * 
+ * INA219, is a Zerø-Drift, Bidirectional Current/Power Monitor With I²C Interface
+ */
+
+
 #pragma once
 
 #include "driver/i2c.h"
